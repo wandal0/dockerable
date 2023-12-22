@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\bin\Debug\netcoreapp3.1\dockerable.exe
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\bin\Debug\netcoreapp3.1\dockerable.deps.json
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\bin\Debug\netcoreapp3.1\dockerable.runtimeconfig.json
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\bin\Debug\netcoreapp3.1\dockerable.runtimeconfig.dev.json
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\bin\Debug\netcoreapp3.1\dockerable.dll
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\bin\Debug\netcoreapp3.1\dockerable.pdb
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\obj\Debug\netcoreapp3.1\dockerable.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\obj\Debug\netcoreapp3.1\dockerable.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\obj\Debug\netcoreapp3.1\dockerable.AssemblyInfo.cs
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\obj\Debug\netcoreapp3.1\dockerable.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\obj\Debug\netcoreapp3.1\dockerable.dll
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\obj\Debug\netcoreapp3.1\dockerable.pdb
+C:\Users\Student\Desktop\cghgktxzdgbjk\dockerable\obj\Debug\netcoreapp3.1\dockerable.genruntimeconfig.cache
